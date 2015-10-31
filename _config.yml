@@ -1,0 +1,23 @@
+name: quoth
+favicon: null
+layout_spectrum: 0.26958162779919803
+typography_spectrum: 0.9289047257043421
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.00599755859002471
+  lightness: 0.6276933117769659
+  saturation: 0.642033982090652
+  rhythmicContrast: 0.18864650465548038
+purpose: []
